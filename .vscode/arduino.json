@@ -1,0 +1,6 @@
+{
+    "programmer": "ArduinoISP",
+    "board": "arduino:avr:leonardo",
+    "port": "/dev/tty.usbmodem14201",
+    "sketch": "draw_line.ino"
+}
