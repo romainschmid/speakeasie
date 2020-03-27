@@ -44,9 +44,9 @@ void loop()
     {
         for(col = 0 ; col < MX_LINE ; col++)
         {
-            matrix[line][col].red = red
-            matrix[line][col].blue = blue
-            matrix[line][col].green = green
+            matrix[line][col].red = red;
+            matrix[line][col].blue = blue;
+            matrix[line][col].green = green;
         }
     }
     strip.show();
