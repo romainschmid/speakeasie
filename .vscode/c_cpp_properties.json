@@ -3,6 +3,7 @@
         {
             "name": "Mac",
             "includePath": [
+                "/Users/romainschmid/Documents/Arduino/libraries/Adafruit_NeoPixel",
                 "/Users/romainschmid/Library/Arduino15/packages/arduino/tools/**",
                 "/Users/romainschmid/Library/Arduino15/packages/arduino/hardware/avr/1.8.2/**"
             ],

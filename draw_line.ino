@@ -1,4 +1,2 @@
-void setup()
-{
-//none
-}
+#include <Adafruit_NeoPixel.h>
+
